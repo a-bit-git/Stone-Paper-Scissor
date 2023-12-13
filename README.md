@@ -3,6 +3,5 @@
 ## Installation
 To play this game, you will need to have Python-3 installed in your system
 ## Output in Terminal
-![Screenshot (188)](https://github.com/a-bit-git/Stone-Paper-Scissor/assets/138126472/8f400bfe-7ca5-4b3f-a3f2-8c1df42ec820)
-![Screenshot (189)](https://github.com/a-bit-git/Stone-Paper-Scissor/assets/138126472/5c149054-cc64-4539-b4fc-4f4c59fba291)
-![Screenshot (190)](https://github.com/a-bit-git/Stone-Paper-Scissor/assets/138126472/3c49e56b-e018-45e1-80cb-c7be7eb5cc9d)
+#### Check this gif:
+![ezgif com-animated-gif-maker(1)](https://github.com/a-bit-git/Stone-Paper-Scissor/assets/138126472/526831f9-6f51-4fe1-91c7-8dee3cb34998)
